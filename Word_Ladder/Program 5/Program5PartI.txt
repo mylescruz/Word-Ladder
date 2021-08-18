@@ -1,0 +1,186 @@
+i: 1091 @AB -> JAB 
+i: 1100 @AK -> OAK 
+i: 1101 @AL -> GAL -> PAL 
+i: 1102 @AM -> JAM -> HAM -> TAM 
+i: 1103 @AN -> PAN -> FAN -> CAN -> MAN 
+i: 1105 @AP -> LAP -> CAP -> MAP -> TAP 
+i: 1107 @AR -> JAR -> FAR -> WAR -> PAR -> EAR -> CAR -> TAR 
+i: 1108 @AS -> HAS -> WAS 
+i: 1109 @AT -> RAT -> EAT -> PAT -> VAT -> SAT -> OAT -> MAT -> FAT -> BAT -> HAT -> CAT 
+i: 1113 @AX -> MAX 
+i: 1218 @EA -> PEA -> TEA 
+i: 1221 @ED -> WED -> FED -> BED -> RED 
+i: 1222 @EE -> FEE -> BEE 
+i: 1224 @EG -> PEG -> KEG 
+i: 1230 @EM -> HEM 
+i: 1237 @ET -> WET -> PET -> SET -> MET 
+i: 1240 @EW -> MEW -> HEW -> FEW -> SEW 
+i: 1255 @FF -> OFF 
+i: 1318 @HE -> THE 
+i: 1328 @HO -> WHO 
+i: 1352 @IG -> PIG 
+i: 1359 @IN -> MIN 
+i: 1365 @IT -> PIT -> FIT -> HIT 
+i: 1452 @LK -> ELK 
+i: 1453 @LL -> ILL -> ALL 
+i: 1454 @LM -> ELM 
+i: 1509 @ND -> AND -> END 
+i: 1525 @NT -> ANT 
+i: 1544 @OG -> LOG -> HOG -> DOG 
+i: 1551 @ON -> WON 
+i: 1552 @OO -> BOO -> TOO -> ZOO 
+i: 1555 @OR -> FOR 
+i: 1557 @OT -> ROT -> POT -> DOT -> HOT -> GOT 
+i: 1560 @OW -> NOW -> HOW -> COW 
+i: 1589 @PT -> OPT -> APT 
+i: 1636 @RC -> ARC 
+i: 1653 @RT -> ART 
+i: 1676 @SK -> ASK 
+i: 1698 @TA -> ETA 
+i: 1702 @TE -> ATE 
+i: 1736 @UG -> JUG -> TUG -> HUG 
+i: 1747 @UR -> FUR 
+i: 1749 @UT -> HUT -> PUT 
+i: 1754 @UY -> GUY 
+i: 2084 A@C -> ARC 
+i: 2085 A@D -> AND 
+i: 2086 A@E -> ATE 
+i: 2092 A@K -> ASK 
+i: 2093 A@L -> ALL 
+i: 2101 A@T -> APT -> ART -> ANT 
+i: 2465 AL@ -> ALL 
+i: 2529 AN@ -> AND -> ANT 
+i: 2593 AP@ -> APT 
+i: 2657 AR@ -> ART -> ARC 
+i: 2689 AS@ -> ASK 
+i: 2721 AT@ -> ATE 
+i: 3109 B@D -> BED 
+i: 3110 B@E -> BEE 
+i: 3120 B@O -> BOO 
+i: 3125 B@T -> BAT 
+i: 3137 BA@ -> BAT 
+i: 3265 BE@ -> BED -> BEE 
+i: 3585 BO@ -> BOO 
+i: 4143 C@N -> CAN 
+i: 4145 C@P -> CAP 
+i: 4147 C@R -> CAR 
+i: 4149 C@T -> CAT 
+i: 4152 C@W -> COW 
+i: 4161 CA@ -> CAR -> CAP -> CAN -> CAT 
+i: 4609 CO@ -> COW 
+i: 5160 D@G -> DOG 
+i: 5173 D@T -> DOT 
+i: 5633 DO@ -> DOT -> DOG 
+i: 6178 E@A -> ETA 
+i: 6181 E@D -> END 
+i: 6188 E@K -> ELK 
+i: 6190 E@M -> ELM 
+i: 6195 E@R -> EAR 
+i: 6197 E@T -> EAT 
+i: 6209 EA@ -> EAR -> EAT 
+i: 6561 EL@ -> ELM -> ELK 
+i: 6625 EN@ -> END 
+i: 6817 ET@ -> ETA 
+i: 7205 F@D -> FED 
+i: 7206 F@E -> FEE 
+i: 7215 F@N -> FAN 
+i: 7219 F@R -> FUR -> FOR -> FAR 
+i: 7221 F@T -> FIT -> FAT 
+i: 7224 F@W -> FEW 
+i: 7233 FA@ -> FAR -> FAN -> FAT 
+i: 7361 FE@ -> FEW -> FED -> FEE 
+i: 7489 FI@ -> FIT 
+i: 7681 FO@ -> FOR 
+i: 7873 FU@ -> FUR 
+i: 8237 G@L -> GAL 
+i: 8245 G@T -> GOT 
+i: 8250 G@Y -> GUY 
+i: 8257 GA@ -> GAL 
+i: 8705 GO@ -> GOT 
+i: 8897 GU@ -> GUY 
+i: 9256 H@G -> HUG -> HOG 
+i: 9262 H@M -> HAM -> HEM 
+i: 9268 H@S -> HAS 
+i: 9269 H@T -> HUT -> HIT -> HOT -> HAT 
+i: 9272 H@W -> HEW -> HOW 
+i: 9281 HA@ -> HAS -> HAM -> HAT 
+i: 9409 HE@ -> HEW -> HEM 
+i: 9537 HI@ -> HIT 
+i: 9729 HO@ -> HOW -> HOT -> HOG 
+i: 9921 HU@ -> HUG -> HUT 
+i: 10285 I@L -> ILL 
+i: 10657 IL@ -> ILL 
+i: 11299 J@B -> JAB 
+i: 11304 J@G -> JUG 
+i: 11310 J@M -> JAM 
+i: 11315 J@R -> JAR 
+i: 11329 JA@ -> JAR -> JAB -> JAM 
+i: 11969 JU@ -> JUG 
+i: 12328 K@G -> KEG 
+i: 12481 KE@ -> KEG 
+i: 13352 L@G -> LOG 
+i: 13361 L@P -> LAP 
+i: 13377 LA@ -> LAP 
+i: 13825 LO@ -> LOG 
+i: 14383 M@N -> MIN -> MAN 
+i: 14385 M@P -> MAP 
+i: 14389 M@T -> MET -> MAT 
+i: 14392 M@W -> MEW 
+i: 14393 M@X -> MAX 
+i: 14401 MA@ -> MAP -> MAT -> MAX -> MAN 
+i: 14529 ME@ -> MEW -> MET 
+i: 14657 MI@ -> MIN 
+i: 15416 N@W -> NOW 
+i: 15873 NO@ -> NOW 
+i: 16423 O@F -> OFF 
+i: 16428 O@K -> OAK 
+i: 16437 O@T -> OPT -> OAT 
+i: 16449 OA@ -> OAK -> OAT 
+i: 16609 OF@ -> OFF 
+i: 16929 OP@ -> OPT 
+i: 17442 P@A -> PEA 
+i: 17448 P@G -> PEG -> PIG 
+i: 17453 P@L -> PAL 
+i: 17455 P@N -> PAN 
+i: 17459 P@R -> PAR 
+i: 17461 P@T -> PUT -> POT -> PET -> PAT -> PIT 
+i: 17473 PA@ -> PAR -> PAL -> PAT -> PAN 
+i: 17601 PE@ -> PEG -> PET -> PEA 
+i: 17729 PI@ -> PIT -> PIG 
+i: 17921 PO@ -> POT 
+i: 18113 PU@ -> PUT 
+i: 19493 R@D -> RED 
+i: 19509 R@T -> RAT -> ROT 
+i: 19521 RA@ -> RAT 
+i: 19649 RE@ -> RED 
+i: 19969 RO@ -> ROT 
+i: 20533 S@T -> SAT -> SET 
+i: 20536 S@W -> SEW 
+i: 20545 SA@ -> SAT 
+i: 20673 SE@ -> SEW -> SET 
+i: 21538 T@A -> TEA 
+i: 21542 T@E -> THE 
+i: 21544 T@G -> TUG 
+i: 21550 T@M -> TAM 
+i: 21552 T@O -> TOO 
+i: 21553 T@P -> TAP 
+i: 21555 T@R -> TAR 
+i: 21569 TA@ -> TAR -> TAM -> TAP 
+i: 21697 TE@ -> TEA 
+i: 21793 TH@ -> THE 
+i: 22017 TO@ -> TOO 
+i: 22209 TU@ -> TUG 
+i: 23605 V@T -> VAT 
+i: 23617 VA@ -> VAT 
+i: 24613 W@D -> WED 
+i: 24623 W@N -> WON 
+i: 24624 W@O -> WHO 
+i: 24627 W@R -> WAR 
+i: 24628 W@S -> WAS 
+i: 24629 W@T -> WET 
+i: 24641 WA@ -> WAS -> WAR 
+i: 24769 WE@ -> WET -> WED 
+i: 24865 WH@ -> WHO 
+i: 25089 WO@ -> WON 
+i: 27696 Z@O -> ZOO 
+i: 28161 ZO@ -> ZOO 

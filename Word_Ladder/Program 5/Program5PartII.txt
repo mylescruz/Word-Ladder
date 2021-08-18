@@ -1,0 +1,100 @@
+i: 14 ILL -> ALL 
+i: 179 ELK -> ELM 
+i: 181 ELM -> ELK 
+i: 196 VAT -> CAT -> HAT -> BAT -> FAT -> MAT -> OAT -> SAT -> PAT -> EAT -> RAT 
+i: 201 GOT -> HOT -> DOT -> POT -> ROT 
+i: 236 END -> AND 
+i: 272 TAM -> TAP -> TAR -> HAM -> JAM 
+i: 275 TAP -> TAM -> TAR -> MAP -> CAP -> LAP 
+i: 277 TAR -> TAP -> TAM -> CAR -> EAR -> PAR -> WAR -> FAR -> JAR 
+i: 346 ALL -> ILL 
+i: 362 RAT -> ROT -> CAT -> HAT -> BAT -> FAT -> MAT -> OAT -> SAT -> VAT -> PAT -> EAT 
+i: 370 COW -> HOW -> NOW 
+i: 388 TEA -> PEA 
+i: 398 GUY 
+i: 402 AND -> ANT -> END 
+i: 418 ANT -> AND -> ART -> APT 
+i: 425 ETA 
+i: 437 PAL -> PAN -> PAT -> PAR -> GAL 
+i: 439 PAN -> PAT -> PAL -> PAR -> MAN -> CAN -> FAN 
+i: 443 PAR -> PAN -> PAT -> PAL -> TAR -> CAR -> EAR -> WAR -> FAR -> JAR 
+i: 445 PAT -> PAN -> PAL -> PAR -> PIT -> PET -> POT -> PUT -> CAT -> HAT -> BAT -> FAT -> MAT -> OAT -> SAT -> VAT -> EAT -> RAT 
+i: 473 ZOO -> TOO -> BOO 
+i: 474 RED -> BED -> FED -> WED 
+i: 482 APT -> ANT -> ART -> OPT 
+i: 488 THE 
+i: 529 ARC -> ART 
+i: 546 ART -> ARC -> ANT -> APT 
+i: 554 PEA -> PET -> PEG -> TEA 
+i: 560 PEG -> PEA -> PET -> PIG -> KEG 
+i: 569 ASK 
+i: 573 PET -> PEA -> PEG -> PIT -> PAT -> POT -> PUT -> MET -> SET -> WET 
+i: 595 ATE 
+i: 607 LAP -> TAP -> MAP -> CAP 
+i: 676 JAB -> JAM -> JAR 
+i: 687 JAM -> JAB -> JAR -> TAM -> HAM 
+i: 688 PIG -> PIT -> PEG 
+i: 692 JAR -> JAM -> JAB -> TAR -> CAR -> EAR -> PAR -> WAR -> FAR 
+i: 701 PIT -> PIG -> PAT -> PET -> POT -> PUT -> HIT -> FIT 
+i: 722 TOO -> ZOO -> BOO 
+i: 770 HAM -> HAT -> HAS -> HEM -> TAM -> JAM 
+i: 776 HAS -> HAT -> HAM -> WAS 
+i: 777 HAT -> HAM -> HAS -> HOT -> HIT -> HUT -> CAT -> BAT -> FAT -> MAT -> OAT -> SAT -> VAT -> PAT -> EAT -> RAT 
+i: 810 ROT -> RAT -> GOT -> HOT -> DOT -> POT 
+i: 854 FAN -> FAT -> FAR -> MAN -> CAN -> PAN 
+i: 858 FAR -> FAT -> FAN -> FOR -> FUR -> TAR -> CAR -> EAR -> PAR -> WAR -> JAR 
+i: 860 FAT -> FAN -> FAR -> FIT -> CAT -> HAT -> BAT -> MAT -> OAT -> SAT -> VAT -> PAT -> EAT -> RAT 
+i: 893 POT -> PIT -> PAT -> PET -> PUT -> GOT -> HOT -> DOT -> ROT 
+i: 898 HEM -> HEW -> HAM 
+i: 906 TUG -> HUG -> JUG 
+i: 908 HEW -> HEM -> HOW -> SEW -> FEW -> MEW 
+i: 972 FED -> FEE -> FEW -> RED -> BED -> WED 
+i: 973 FEE -> FED -> FEW -> BEE 
+i: 979 NOW -> COW -> HOW 
+i: 991 FEW -> FEE -> FED -> SEW -> HEW -> MEW 
+i: 1026 BAT -> CAT -> HAT -> FAT -> MAT -> OAT -> SAT -> VAT -> PAT -> EAT -> RAT 
+i: 1033 HIT -> HAT -> HOT -> HUT -> FIT -> PIT 
+i: 1046 LOG -> DOG -> HOG 
+i: 1085 PUT -> PIT -> PAT -> PET -> POT -> HUT 
+i: 1116 FIT -> FAT -> HIT -> PIT 
+i: 1138 BED -> BEE -> RED -> FED -> WED 
+i: 1139 BEE -> BED -> FEE 
+i: 1212 HOG -> HOT -> HOW -> HUG -> DOG -> LOG 
+i: 1218 WAR -> WAS -> TAR -> CAR -> EAR -> PAR -> FAR -> JAR 
+i: 1219 WAS -> WAR -> HAS 
+i: 1225 HOT -> HOG -> HOW -> HAT -> HIT -> HUT -> GOT -> DOT -> POT -> ROT 
+i: 1228 HOW -> HOG -> HOT -> HEW -> COW -> NOW 
+i: 1306 FOR -> FAR -> FUR 
+i: 1321 JUG -> HUG -> TUG 
+i: 1332 WED -> WET -> RED -> BED -> FED 
+i: 1348 WET -> WED -> MET -> SET -> PET 
+i: 1378 DOG -> DOT -> HOG -> LOG 
+i: 1386 SAT -> SET -> CAT -> HAT -> BAT -> FAT -> MAT -> OAT -> VAT -> PAT -> EAT -> RAT 
+i: 1391 DOT -> DOG -> GOT -> HOT -> POT -> ROT 
+i: 1404 HUG -> HUT -> HOG -> TUG -> JUG 
+i: 1417 HUT -> HUG -> HAT -> HOT -> HIT -> PUT 
+i: 1439 WHO 
+i: 1469 BOO -> ZOO -> TOO 
+i: 1498 FUR -> FAR -> FOR 
+i: 1514 SET -> SEW -> SAT -> MET -> PET -> WET 
+i: 1517 SEW -> SET -> FEW -> HEW -> MEW 
+i: 1543 OAK -> OAT 
+i: 1552 OAT -> OAK -> OPT -> CAT -> HAT -> BAT -> FAT -> MAT -> SAT -> VAT -> PAT -> EAT -> RAT 
+i: 1629 MAN -> MAX -> MAT -> MAP -> MIN -> CAN -> FAN -> PAN 
+i: 1631 MAP -> MAN -> MAX -> MAT -> TAP -> CAP -> LAP 
+i: 1635 MAT -> MAN -> MAX -> MAP -> MET -> CAT -> HAT -> BAT -> FAT -> OAT -> SAT -> VAT -> PAT -> EAT -> RAT 
+i: 1639 MAX -> MAN -> MAT -> MAP 
+i: 1662 WON 
+i: 1698 OFF 
+i: 1763 MET -> MEW -> MAT -> SET -> PET -> WET 
+i: 1766 MEW -> MET -> SEW -> FEW -> HEW 
+i: 1833 KEG -> PEG 
+i: 1876 GAL -> PAL 
+i: 1885 MIN -> MAN 
+i: 1965 EAR -> EAT -> TAR -> CAR -> PAR -> WAR -> FAR -> JAR 
+i: 1967 EAT -> EAR -> CAT -> HAT -> BAT -> FAT -> MAT -> OAT -> SAT -> VAT -> PAT -> RAT 
+i: 2032 OPT -> OAT -> APT 
+i: 2044 CAN -> CAT -> CAP -> CAR -> MAN -> FAN -> PAN 
+i: 2046 CAP -> CAT -> CAN -> CAR -> TAP -> MAP -> LAP 
+i: 2048 CAR -> CAT -> CAN -> CAP -> TAR -> EAR -> PAR -> WAR -> FAR -> JAR 
+i: 2050 CAT -> CAN -> CAP -> CAR -> HAT -> BAT -> FAT -> MAT -> OAT -> SAT -> VAT -> PAT -> EAT -> RAT 
